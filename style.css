@@ -198,8 +198,17 @@ body {
   } */
 }
 }
+/* main content */
 
-/* footer start */
+.main_content
+{
+  height: 40px;
+  background-color: yellow;
+  
+
+}
+
+
 /*footer start*/
 
 footer {
